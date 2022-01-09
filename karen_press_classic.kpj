@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+    <ProjectType>keyboard</ProjectType>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_5e44bc591907cd3e171083108b3688ed</ID>
+      <Filename>karen_press_classic.kmn</Filename>
+      <Filepath>source\karen_press_classic.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Karen Press Classic</Name>
+        <Copyright>© Karen Student Netowrk Group</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ID>
+      <Filename>karen_press_classic.kps</Filename>
+      <Filepath>source\karen_press_classic.kps</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Karen Press Classic</Name>
+        <Copyright>© Karen Student Netowrk Group</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <Filename>HISTORY.md</Filename>
+      <Filepath>HISTORY.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <Filename>LICENSE.md</Filename>
+      <Filepath>LICENSE.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <Filename>README.md</Filename>
+      <Filepath>README.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <ID>id_e4280d7b0bc8486b86d80b643fab33db</ID>
+      <Filename>karen_press_classic.keyboard_info</Filename>
+      <Filepath>karen_press_classic.keyboard_info</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.keyboard_info</FileType>
+    </File>
+    <File>
+      <ID>id_424a6b6ca3b5da5a37f6517b58442792</ID>
+      <Filename>Untitled.kps</Filename>
+      <Filepath>Untitled.kps</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kps</FileType>
+      <Details/>
+    </File>
+    <File>
+      <ID>id_073aceb2b5e8729d0442ff9c0b684dd5</ID>
+      <Filename>kpc.kmn</Filename>
+      <Filepath>..\..\..\..\Desktop\KEYBOARD layout\kpc.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Karen Language</Name>
+        <Copyright>© Karen Student Network Group</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_eae6f7cac7648d7993d0c797608b9220</ID>
+      <Filename>kpc.kmn</Filename>
+      <Filepath>kpc.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Karen Press Classic</Name>
+        <Copyright>© Karen STudent Network Group</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_40ffafd312573ae044f8ffa90fb39f5b</ID>
+      <Filename>karen_press_classic.kmx</Filename>
+      <Filepath>source\..\build\karen_press_classic.kmx</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmx</FileType>
+      <ParentFileID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_f385eff296301db16f741f783c23f729</ID>
+      <Filename>karen_press_classic.js</Filename>
+      <Filepath>source\..\build\karen_press_classic.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_bae9d50df5faf136be6155940bed618c</ID>
+      <Filename>karen_press_classic.kvk</Filename>
+      <Filepath>source\..\build\karen_press_classic.kvk</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kvk</FileType>
+      <ParentFileID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <Filename>welcome.htm</Filename>
+      <Filepath>source\welcome.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

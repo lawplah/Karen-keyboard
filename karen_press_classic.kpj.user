@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\karen_press_classic.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_5e44bc591907cd3e171083108b3688ed</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\karen_press_classic.kmn</FullPath>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_3e3afc9e376c0857cf9accc52f9d9f9b</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\karen_press_classic.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e4280d7b0bc8486b86d80b643fab33db</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\karen_press_classic.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_424a6b6ca3b5da5a37f6517b58442792</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\Untitled.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_073aceb2b5e8729d0442ff9c0b684dd5</ID>
+      <FullPath>C:\Users\HP\Desktop\KEYBOARD layout\kpc.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_eae6f7cac7648d7993d0c797608b9220</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\kpc.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_40ffafd312573ae044f8ffa90fb39f5b</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\..\build\karen_press_classic.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f385eff296301db16f741f783c23f729</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\..\build\karen_press_classic.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bae9d50df5faf136be6155940bed618c</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\..\build\karen_press_classic.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>karen_press_keyboard.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\HP\Desktop\Keyboard FINAL\karen_press_keyboard.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>karen press keyboard.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\HP\Desktop\Keyboard FINAL\karen press keyboard.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>kpc.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\HP\Desktop\KEYBOARD layout\kpc.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>kpc.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\kpc.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>karen.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\HP\Desktop\KEYBOARD layout\karen.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>kpc.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\karen_press_classic\build\kpc.js</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>kpc1.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\knu_unicode\kpc1.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>kbcunicode.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\HP\Documents\Keyman Developer\Projects\knu_unicode\kbcunicode.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
